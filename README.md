@@ -6,7 +6,7 @@
 
 目录: `src/main/java/com/example/web/BeerSelect.java`
 
-`java` 目录后面，`.java` 文件之前的这端路径会被认为是包名。
+`java` 目录后面，`.java` 文件之前的这段路径会被认为是包名。
 
 
-继续打怪升级
+继续打怪升级.......
